@@ -1,20 +1,12 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning .NET and JavaScript
 ### My skills:
-### ✔ .NET
-### ✔ C# 8.0
-### ✔ Entity Framework 
-### ✔ LINQ
-### ✔ WPF
-### ✔ WiX Toolset
-### ✔ Visual Studio
-### ✔ SQL
-### ✔ JavaScript Vanilla
-### ✔ Code First
-### ✔ Dependency Injection
-### ✔ HTML
-### ✔ CSS
-### ✔ Bootstrap
+### ✔ .NET ✔ C# 8.0 ✔ Entity Framework 
+### ✔ LINQ ✔ WPF ✔ WiX Toolset ✔ SQL
+### ✔ Visual Studio ✔ JavaScript Vanilla
+### ✔ Code First ✔ Dependency Injection
+### ✔ HTML ✔ CSS ✔ Bootstrap
+
 
 
 <!--
