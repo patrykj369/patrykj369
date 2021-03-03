@@ -1,4 +1,6 @@
 ### Hi there 👋
+### 🌱 I’m currently learning .NET and JavaScript
+
 
 <!--
 **patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
