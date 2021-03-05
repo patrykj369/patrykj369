@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning .NET and JavaScript
+### 🌱 I’m currently learning .NET, JavaScript and TypeScript ❤
 ### My skills:
 ### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset ✔ SQL ✔ HTML ✔ CSS
 ### ✔ Visual Studio ✔ JavaScript Vanilla ✔ Code First ✔ Dependency Injection ✔ Bootstrap
