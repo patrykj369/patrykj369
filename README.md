@@ -4,8 +4,6 @@
 ### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset ✔ SQL ✔ HTML ✔ CSS
 ### ✔ Visual Studio ✔ JavaScript Vanilla ✔ Code First ✔ Dependency Injection ✔ Bootstrap
  
-
-
 <!--
 **patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
