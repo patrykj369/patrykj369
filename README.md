@@ -1,8 +1,9 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning .NET, JavaScript, TypeScript and React ❤
 ### My skills:
-### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset ✔ SQL ✔ HTML ✔ CSS ✔SCSS/SASS 
-### ✔ Visual Studio ✔ JavaScript Vanilla ✔ Code First ✔ Dependency Injection ✔ Bootstrap
+### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset 
+### ✔SCSS/SASS ✔ CSS ✔ HTML  ✔ JavaScript Vanilla  ✔ Bootstrap
+### ✔ Visual Studio ✔ Code First ✔ Dependency Injection ✔ SQL
  
 <!--
 **patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
