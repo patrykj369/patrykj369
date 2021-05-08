@@ -8,7 +8,7 @@
 ### 💬 My CodePen -> https://codepen.io/patrykj369
  
 <!--
-**patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+**patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
