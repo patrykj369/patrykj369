@@ -4,6 +4,7 @@
 ### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset 
 ### ✔SCSS/SASS ✔ CSS ✔ HTML  ✔ JavaScript Vanilla  ✔ Bootstrap
 ### ✔ Visual Studio ✔ Code First ✔ Dependency Injection ✔ SQL
+### ✔ StyledComponents ✔ React Routing ✔ API fetch
 
 ### 💬 My CodePen -> https://codepen.io/patrykj369
  
