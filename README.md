@@ -1,10 +1,10 @@
 ### Hi there 👋
 ### 🌱 I’m currently learning JavaScript, TypeScript and React ❤
 ### My skills:
-### ✔ .NET ✔ C# 8.0 ✔ Entity Framework ✔ LINQ ✔ WPF ✔ WiX Toolset 
-### ✔SCSS/SASS ✔ CSS ✔ HTML  ✔ JavaScript Vanilla  ✔ Bootstrap
-### ✔ Visual Studio ✔ Code First ✔ Dependency Injection ✔ SQL
+### ✔ JavaScript Vanilla ✔ TypeScript ✔ React ✔SCSS/SASS
+### ✔ CSS ✔ HTML ✔ SQL ✔ .NET ✔ Entity Framework ✔ LINQ     
 ### ✔ StyledComponents ✔ React Routing ✔ API fetch
+### ✔ JEST ✔ Puppeteer ✔ Unit Testing 
 
 ### 💬 My CodePen -> https://codepen.io/patrykj369
  
