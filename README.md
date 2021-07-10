@@ -1,12 +1,12 @@
 ### Hi there 👋
-### 🌱 Welcome to my profile, nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ ❤
+### ⚡ Welcome to my profile, nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ 💬
 ### My skills:
 ### ✔ JavaScript Vanilla ✔ TypeScript ✔ React ✔SCSS/SASS
 ### ✔ CSS ✔ HTML ✔ SQL ✔ .NET ✔ Entity Framework ✔ LINQ     
 ### ✔ StyledComponents ✔ React Routing ✔ API fetch
 ### ✔ JEST ✔ Puppeteer ✔ Unit Testing 
 
-### 💬 My CodePen -> https://codepen.io/patrykj369
+### ⚡ My CodePen -> https://codepen.io/patrykj369
  
 <!--
 **patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
