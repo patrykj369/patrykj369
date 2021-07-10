@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🌱 I’m currently learning JavaScript, TypeScript and React ❤
+### 🌱 Welcome to my profile, a nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ ❤
 ### My skills:
 ### ✔ JavaScript Vanilla ✔ TypeScript ✔ React ✔SCSS/SASS
 ### ✔ CSS ✔ HTML ✔ SQL ✔ .NET ✔ Entity Framework ✔ LINQ     
