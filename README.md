@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### ⚡ Welcome to my profile, nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ 💬
+### 🌱 I’m currently learning C#/ASP.NET Core
 ### My skills:
-### ✔ JavaScript Vanilla ✔ TypeScript ✔ React ✔SCSS/SASS
-### ✔ CSS ✔ HTML ✔ SQL ✔ .NET ✔ Entity Framework ✔ LINQ     
-### ✔ StyledComponents ✔ React Routing ✔ API fetch
+### ✔ .NET ✔ Entity Framework ✔ LINQ ✔ SQL ✔ WebAPI
+### ✔ JavaScript Vanilla ✔ React ✔SCSS/SASS ✔ CSS ✔ HTML
 ### ✔ JEST ✔ Puppeteer ✔ Unit Testing 
 
 ### ⚡ My CodePen -> https://codepen.io/patrykj369
