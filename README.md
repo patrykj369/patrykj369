@@ -1,7 +1,5 @@
 ### Hi there 👋
 ### ⚡ Welcome to my profile, nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ 💬
-### My skills:
-### ✔ SQL ✔ .NET  ✔ JavaScript Vanilla ✔ CSS ✔ HTML
 
 ### ⚡ My CodePen -> https://codepen.io/patrykj369
  
