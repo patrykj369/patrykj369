@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### ⚡ Welcome to my profile, nice to see you. If you want to write to me, you might this do on my LinkedIn: https://www.linkedin.com/in/patryk-jablonski/ 💬
 
-### ⚡ My CodePen -> https://codepen.io/patrykj369
+### ⚡ Systems, Cloud & DevOps Engineer 
  
 <!--
 **patrykj369/patrykj369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profil
