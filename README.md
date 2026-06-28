@@ -2,7 +2,7 @@
 
 # Hi, I'm Patrick👋
 
-### Cloud, DevOps & Systems Engineer · Academic Lecturer · PhD Student
+### DevOps, Cloud & Systems Engineer · Academic Lecturer · PhD Student
 
 I build and automate cloud, infrastructure and deployment environments with a strong focus on **Azure**, **CI/CD**, **Infrastructure as Code**, **containers**, **monitoring**, **security** and **AI-driven automation**.
 
@@ -26,7 +26,7 @@ My background combines hands-on engineering work with academic activity. I work 
 ---
 
 ## What I work with
-
+<div align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -83,7 +83,7 @@ My background combines hands-on engineering work with academic activity. I work 
 </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## Main areas of interest
