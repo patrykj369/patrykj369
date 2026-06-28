@@ -101,19 +101,6 @@ My background combines hands-on engineering work with academic activity. I work 
 
 ---
 
-## Academic & research profile
-
-I am also active as an **academic lecturer** and **PhD student** in the area of management and quality. My teaching and research interests connect technology, automation, artificial intelligence and digital transformation.
-
-### Courses I teach
-
-- Generative Artificial Intelligence
-- Network Infrastructure Management
-- Operating Systems
-- Process Automation
-
----
-
 ## Tools & technologies
 
 <p>
