@@ -10,7 +10,6 @@ I build and automate cloud, infrastructure and deployment environments with a st
   <a href="https://github.com/patrykj369"><img src="https://img.shields.io/badge/GitHub-patrykj369-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://www.linkedin.com/in/patryk-jablonski"><img src="https://img.shields.io/badge/LinkedIn-Patryk%20Jab%C5%82o%C5%84ski-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:patrykjablonski23@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://orcid.org/0009-0000-9122-6862"><img src="https://img.shields.io/badge/ORCID-0009--0000--9122--6862-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 </p>
 
 </div>
