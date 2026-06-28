@@ -85,6 +85,7 @@ My background combines hands-on engineering work with academic activity. I work 
   </tr>
 </table>
 </div>
+
 ---
 
 ## Main areas of interest
