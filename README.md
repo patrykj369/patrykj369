@@ -90,14 +90,12 @@ My background combines hands-on engineering work with academic activity. I work 
 
 ## Main areas of interest
 
-```text
-Cloud Architecture       Azure infrastructure, secure network design, scalable environments
+Cloud Architecture       Azure infrastructure, secure platform design, scalable environments
 DevOps Engineering       CI/CD, GitOps principles, deployment automation, release workflows
 Infrastructure as Code   Terraform-based provisioning and environment standardization
 Containerization         Docker-based application delivery and container environments
 Security & Monitoring    AppSec, observability, alerting, vulnerability scanning, incident handling
 AI & Automation          AI tools, workflow automation, LLM-assisted engineering and research
-```
 
 ---
 
