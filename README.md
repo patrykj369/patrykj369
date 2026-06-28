@@ -36,6 +36,7 @@ My background combines hands-on engineering work with academic activity. I work 
 - Microsoft Azure
 - Azure DevOps
 - GitHub Actions
+- Gitlab CI/CD
 - Terraform
 - Docker
 - Kubernetes / AKS
@@ -49,7 +50,7 @@ My background combines hands-on engineering work with academic activity. I work 
 - Linux administration
 - IIS, Nginx, Apache
 - Active Directory
-- Networking, VNets, NSG, private endpoints
+- Networking,
 - Backup, patching and certificate management
 - Incident response and production support
 
