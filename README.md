@@ -92,12 +92,12 @@ My background combines hands-on engineering work with academic activity. I work 
 
 |  | Area | Description |
 |---|---|---|
-| ☁️ | **Cloud Architecture** | Azure infrastructure, secure platform design, scalable environments |
-| 🚀 | **DevOps Engineering** | CI/CD, GitOps principles, deployment automation, release workflows |
-| 🧱 | **Infrastructure as Code** | Terraform-based provisioning and environment standardization |
-| 🐳 | **Containerization** | Docker-based application delivery and container environments |
+| ☁️ | **Cloud Architecture** | Azure infrastructure, secure platform design, scalable environments, cloud-native solutions |
+| 🚀 | **DevOps Engineering** | CI/CD, GitOps principles, deployment automation, release workflows, pipeline optimization |
+| 🏗️ | **Infrastructure as Code** | Terraform provisioning, environment standardization, reusable modules, infrastructure lifecycle automation |
+| 🐳 | **Containerization** | Docker-based delivery, container environments, image optimization, cloud container deployments |
 | 🔐 | **Security & Monitoring** | AppSec, observability, alerting, vulnerability scanning, incident handling |
-| 🧠 | **AI & Automation** | AI tools, workflow automation, LLM-assisted engineering and research |
+| 🧠 | **AI & Automation** | AI tools, workflow automation, LLM-assisted engineering, process optimization |
 
 ---
 
