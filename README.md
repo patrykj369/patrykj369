@@ -142,7 +142,7 @@ My background combines hands-on engineering work with academic activity. I work 
 
 <img height="170" src="https://github-readme-stats.shion.dev/api?username=patrykj369&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=patrykj369&theme=dark&hide_border=false" alt="Streeak Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrykj369&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=patrykj369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -163,5 +163,5 @@ My background combines hands-on engineering work with academic activity. I work 
 ### Let's connect
 
 I am open to conversations about **Cloud**, **DevOps**, **automation**, **infrastructure**, **AI**, academic cooperation and technology-driven projects.
-
+<img height="170" src="https://komarev.com/ghpvc/?username=patrykj369&icon=0&color=red" alt="Profile Visit Stats" />
 </div>
