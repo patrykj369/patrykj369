@@ -163,5 +163,7 @@ My background combines hands-on engineering work with academic activity. I work 
 ### Let's connect
 
 I am open to conversations about **Cloud**, **DevOps**, **automation**, **infrastructure**, **AI**, academic cooperation and technology-driven projects.
+
+---
 <img height="170" src="https://komarev.com/ghpvc/?username=patrykj369&icon=0&color=red" alt="Profile Visit Stats" />
 </div>
