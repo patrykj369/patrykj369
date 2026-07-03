@@ -107,7 +107,7 @@ My background combines hands-on engineering work with academic activity. I work 
   <img src="https://img.shields.io/badge/terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/azure%20devops-0078D7?style=flat-square&logo=azuredevops&logoColor=white" />
   <img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/powershell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
