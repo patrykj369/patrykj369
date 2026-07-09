@@ -28,20 +28,20 @@ My background combines hands-on engineering work with academic activity. I work 
 <div align="center">
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0d1117">
 
 ### Cloud & DevOps
 
 - Microsoft Azure
 - Azure DevOps
 - GitHub Actions
-- Gitlab CI/CD
+- GitLab CI/CD
 - Terraform
 - Docker
 - Kubernetes / AKS
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#161b22">
 
 ### Systems & Infrastructure
 
@@ -49,14 +49,14 @@ My background combines hands-on engineering work with academic activity. I work 
 - Linux administration
 - IIS, Nginx, Apache
 - Active Directory
-- Networking,
+- Networking
 - Backup, patching and certificate management
 - Incident response and production support
 
 </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#161b22">
 
 ### Automation & Scripting
 
@@ -69,7 +69,7 @@ My background combines hands-on engineering work with academic activity. I work 
 - Deployment and operational automation
 
 </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="top" bgcolor="#0d1117">
 
 ### Databases, Security & Testing
 
