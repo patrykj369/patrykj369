@@ -138,7 +138,7 @@ My background combines hands-on engineering work with academic activity. I work 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=patrykj369&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=patrykj369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&rank_icon=percentile" alt="GitHub Stats" />
 <img height="170" src="https://streak-stats.demolab.com/?user=patrykj369&theme=dark&hide_border=false" alt="Streeak Stats" />
 <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=patrykj369&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
